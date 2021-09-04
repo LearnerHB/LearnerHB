@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I am [Bing HU](https://bingcs.com/about/). I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I currently intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
+Hi, I am [Bing HU](https://bingcs.com/about/). I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I also intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
 
 :mortar_board: M.S CUHK, B.S XMU. Majoring in Computer Science.
 
-:office: Currently a engineer intern at Tencent.
+:office: Currently an engineer intern at Tencent.
 
 ![Bing's github stats](https://github-readme-stats.vercel.app/api?username=LearnerHB&count_private=true&show_icons=true&theme=radical)
