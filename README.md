@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+:mortar_board: M.S CUHK, B.S XMU. Majoring in Computer Science.
+:office: Currently a engineer intern at Tencent.
+
+
