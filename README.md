@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Bing's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-Hi, I am [Bing HU](https://bingcs.com/about/) and I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I currently intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
+Hi, I am [Bing HU](https://bingcs.com/about/). I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I currently intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
 
 :mortar_board: M.S CUHK, B.S XMU. Majoring in Computer Science.
 
