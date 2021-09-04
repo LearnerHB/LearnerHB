@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Bing HU and I am currently pursuing my Master Degree in The Chinese University of Hong Kong. And currently intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
+<a href="https://www.instagram.com/___mr.bing___/">
+  <img align="left" alt="Bing's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/bingghu/">
+  <img align="left" alt="Bing's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+Hi, I am [Bing HU](https://bingcs.com/about/) and I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I currently intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
 
 :mortar_board: M.S CUHK, B.S XMU. Majoring in Computer Science.
 
