@@ -31,10 +31,10 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I am [Bing HU](https://bingcs.com/about/). I am currently pursuing my Master Degree in The Chinese University of Hong Kong. I also intern as an engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. 
+Hi, I am [Bing HU](https://bingcs.com/about/). I just got my Master Degree in The Chinese University of Hong Kong. I used to intern as an software engineer in Tencent. Before that I recieved my Bachelor Degree of Computer Science from Xiamen University. My research interest includes Cloud Computing, Security and Machine Learning. Feel free to contact with me. :-)
 
 :mortar_board: M.S CUHK, B.S XMU. Majoring in Computer Science.
 
-:office: Currently an engineer intern at Tencent.
-
 ![Bing's github stats](https://github-readme-stats.vercel.app/api?username=LearnerHB&count_private=true&show_icons=true&theme=radical)
+
+- 📫 How to reach me: hubingcs[AT]163.com
